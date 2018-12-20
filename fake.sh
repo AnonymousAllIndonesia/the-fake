@@ -260,7 +260,7 @@ echo '    |  _| (_| |   <  __/_____| | (_) | (_) | \__ \';
 echo '    |_|  \__,_|_|\_\___|     |_|\___/ \___/|_|___/ v.1.0';
 echo ' ---------------- Coded By Mr.Kintil ---------------';
 echo '';
-echo 'Nb:MY FRIEND:jack Kandol Bicil MR.SAT BLACKPINK Aw4Ke 404;
+echo 'Nb:MY FRIEND:jack Kandol Bicil MR.SAT BLACKPINK Aw4Ke 404 MR.DRAG MR.CAKER;
 echo 'MY BESTFRIEND TEAM:G45 CYBER TEAM ALI ATTACKER SORA CYBER TEAM ;
 echo '';
 echo 'Pilih Opsi:';
